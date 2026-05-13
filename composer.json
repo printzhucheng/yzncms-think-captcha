@@ -1,5 +1,5 @@
 {
-    "name": "yzncms/think-captcha",
+    "name": "printzhucheng/yzncms-think-captcha",
     "description": "captcha package for thinkphp5",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "license": "Apache-2.0",
     "support": {
-        "issues": "https://gitee.com/ken678/YZNCMS/issues"
+        "issues": "https://github.com/printzhucheng/yzncms-think-captcha/issues"
     },
     "require": {
         "php": ">=7.0.0"
